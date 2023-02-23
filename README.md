@@ -1,2 +1,2 @@
-# Leetcode
-Leetcode problems
+## About this repository
+I use Leetcode to practice languages, algorithms, stay current with logical thinking, improve the knowledge of specific programming language and learn something new. I store my solutions to problems that I've solved in this repository.
